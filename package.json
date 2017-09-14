@@ -1,0 +1,32 @@
+{
+    "name": "nikso-code-theme",
+    "displayName": "nikso-code-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "nikso",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nikso Code",
+                "uiTheme": "vs",
+                "path": "./themes/Nikso Code-color-theme.json"
+            },
+            {
+                "label": "Nikso Solarized Light",
+                "uiTheme": "vs",
+                "path": "./themes/nikso-solarized-light-color-theme.json"
+            },
+            {
+                "label": "Nikso Github",
+                "uiTheme": "vs",
+                "path": "./themes/nikso-github-color-theme.json"
+            }
+        ]
+    }
+}
