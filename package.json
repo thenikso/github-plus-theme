@@ -1,9 +1,9 @@
 {
-    "name": "nikso-code-theme",
-    "displayName": "nikso-code-theme",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "nikso",
+    "name": "github-plus-theme",
+    "displayName": "GitHub Plus Theme",
+    "description": "A GitHub inspired color theme for VSCode",
+    "version": "1.0.0",
+    "publisher": "thenikso",
     "engines": {
         "vscode": "^1.16.0"
     },
@@ -13,19 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nikso Code",
+                "label": "GitHub Plus",
                 "uiTheme": "vs",
-                "path": "./themes/Nikso Code-color-theme.json"
-            },
-            {
-                "label": "Nikso Solarized Light",
-                "uiTheme": "vs",
-                "path": "./themes/nikso-solarized-light-color-theme.json"
-            },
-            {
-                "label": "Nikso Github",
-                "uiTheme": "vs",
-                "path": "./themes/nikso-github-color-theme.json"
+                "path": "./themes/github-plus-theme.json"
             }
         ]
     }
