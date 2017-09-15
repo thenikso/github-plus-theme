@@ -4,6 +4,9 @@
     "description": "A GitHub inspired color theme for VSCode",
     "version": "1.0.0",
     "publisher": "thenikso",
+    "repository": {
+        "url": "https://github.com/thenikso/github-plus-theme"
+    },
     "engines": {
         "vscode": "^1.16.0"
     },
