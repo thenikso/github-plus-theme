@@ -5,6 +5,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.0] - 2017-09-25
+### Fixed
+- Template string are now colored like strings
+
 ## [1.0.0] - 2017-09-15
 ### Added
 - Full GitHub plus theme

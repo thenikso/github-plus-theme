@@ -2,7 +2,7 @@
     "name": "github-plus-theme",
     "displayName": "GitHub Plus Theme",
     "description": "A GitHub inspired color theme for VSCode",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "thenikso",
     "repository": {
         "url": "https://github.com/thenikso/github-plus-theme"
