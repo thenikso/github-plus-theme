@@ -98,8 +98,6 @@
         "variable.language.this",
         "variable.other.class",
         "variable.other.constant",
-        // "variable.other.readwrite",
-        // "variable.other.object",
         "meta.property-name",
         "meta.property-value",
         "support"
@@ -116,7 +114,8 @@
         // NON github
         "support.function.node",
         "support.type.property-name.json",
-        "punctuation.separator.key-value"
+        "punctuation.separator.key-value",
+        "punctuation.definition.template-expression"
       ],
       "settings": {
         "foreground": "#d73a49"
@@ -132,7 +131,8 @@
     {
       "scope": [
         "keyword.operator.accessor",
-        "meta.group.braces.round.function.arguments"
+        "meta.group.braces.round.function.arguments",
+        "meta.template.expression"
       ],
       "settings": {
         "foreground": "#24292eff"
@@ -146,7 +146,6 @@
         "meta.instance.constructor",
         "entity.other.attribute-name",
         "entity.name.function"
-        // "entity.name.class"
       ],
       "settings": {
         "foreground": "#6f42c1"
@@ -159,6 +158,7 @@
         "string.quoted",
         "string.regexp",
         "string.interpolated",
+        "string.template",
         "keyword.other.template"
       ],
       "settings": {
