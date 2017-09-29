@@ -1,6 +1,10 @@
 # Change Log
 All notable [changes](http://keepachangelog.com) to the "GitHub Plus Theme" extension will be documented in this file.
 
+## [1.1.2] - 2017-09-29
+### Changed
+- Improved README
+
 ## [1.1.1] - 2017-09-25
 ### Added
 - Project icon

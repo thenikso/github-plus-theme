@@ -1,8 +1,8 @@
 {
   "name": "github-plus-theme",
   "displayName": "GitHub Plus Theme",
-  "description": "A GitHub inspired color theme for VSCode",
-  "version": "1.1.1",
+  "description": "A GitHub inspired color theme for VSCode code and interface!",
+  "version": "1.1.2",
   "publisher": "thenikso",
   "icon": "icon.png",
   "repository": {
@@ -24,5 +24,8 @@
         "path": "./themes/github-plus-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "publish": "vsce publish"
   }
 }
