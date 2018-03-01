@@ -178,7 +178,10 @@
       }
     },
     {
-      "scope": "token.error-token",
+      "scope": [
+        "token.error-token",
+        "invalid"
+      ],
       "settings": {
         "foreground": "#cd3131"
       }
