@@ -191,6 +191,30 @@
       "settings": {
         "foreground": "#800080"
       }
+    },
+    {
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#22863a"
+      }
+    },
+    {
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#d73a49"
+      }
+    },
+    {
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "#005cc5"
+      }
+    },
+    {
+      "scope": "meta.diff.header",
+      "settings": {
+        "foreground": "#6a737d"
+      }
     }
   ]
 }
