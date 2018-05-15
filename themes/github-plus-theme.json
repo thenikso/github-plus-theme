@@ -47,6 +47,17 @@
       }
     },
     {
+      "scope": [
+        "keyword.operator.accessor",
+        "meta.group.braces.round.function.arguments",
+        "meta.template.expression",
+        "markup.fenced_code meta.embedded.block"
+      ],
+      "settings": {
+        "foreground": "#24292eff"
+      }
+    },
+    {
       "scope": "emphasis",
       "settings": {
         "fontStyle": "italic"
@@ -111,6 +122,8 @@
         "keyword",
         "storage.modifier",
         "storage.type",
+        "storage.control.clojure",
+        "entity.name.function.clojure",
         // NON github
         "support.function.node",
         "support.type.property-name.json",
@@ -130,22 +143,13 @@
     },
     {
       "scope": [
-        "keyword.operator.accessor",
-        "meta.group.braces.round.function.arguments",
-        "meta.template.expression"
-      ],
-      "settings": {
-        "foreground": "#24292eff"
-      }
-    },
-    {
-      "scope": [
         "entity.name.type",
         "entity.other.inherited-class",
         "meta.function-call",
         "meta.instance.constructor",
         "entity.other.attribute-name",
-        "entity.name.function"
+        "entity.name.function",
+        "constant.keyword.clojure"
       ],
       "settings": {
         "foreground": "#6f42c1"
