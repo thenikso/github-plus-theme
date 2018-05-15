@@ -1,6 +1,12 @@
 # Change Log
 All notable [changes](http://keepachangelog.com) to the "GitHub Plus Theme" extension will be documented in this file.
 
+## [1.1.3] - 2018-05-15
+### Added
+- Clojure language support
+### Fixed
+- Colors for brackets and support charachters is now properly black
+
 ## [1.1.2] - 2017-09-29
 ### Changed
 - Improved README
