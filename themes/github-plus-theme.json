@@ -2,7 +2,7 @@
   "type": "light",
   // Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
   "colors": {
-    "focusBorder": "#fafbfc",
+    "focusBorder": "#4b4b4b",
     "editor.background": "#ffffff",
     "editor.foreground": "#24292e",
     "editor.lineHighlightBackground": "#fffbdd",
@@ -10,13 +10,14 @@
     "editorLineNumber.foreground": "#cccccc",
     "editorBracketMatch.background": "#f1f8ff",
     "editorBracketMatch.border": "#c8e1ff",
-    "titleBar.activeBackground": "#fafbfc",
-    "titleBar.border": "#e1e4e8",
-    "statusBar.foreground": "#24292e",
+    "titleBar.activeBackground": "#24292e",
+    "titleBar.activeForeground": "#cccccc",
+    "titleBar.border": "#ff000000",
+    "statusBar.foreground": "#cccccc",
     "statusBar.noFolderForeground": "#24292e",
-    "statusBar.background": "#fafbfc",
+    "statusBar.background": "#24292e",
     "statusBar.noFolderBackground": "#fafbfc",
-    "statusBar.border": "#e1e4e8",
+    "statusBar.border": "#ff000000",
     "statusBar.debuggingBackground": "#fafbfc",
     "statusBar.debuggingForeground": "#24292e",
     "activityBar.background": "#24292e",
@@ -36,7 +37,8 @@
     "tab.inactiveBackground": "#fafbfc",
     "tab.border": "#e1e4e8",
     "tab.inactiveForeground": "#586069",
-    "scrollbar.shadow": "#00000000"
+    "scrollbar.shadow": "#00000000",
+    "input.border": "#d1d1d1"
   },
   // User command "Inspect TM Scopes" to know which scope to color
   "tokenColors": [
