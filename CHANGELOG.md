@@ -1,6 +1,15 @@
 # Change Log
 All notable [changes](http://keepachangelog.com) to the "GitHub Plus Theme" extension will be documented in this file.
 
+## [1.2.1] - 2019-08-27
+### Added
+- Add inputOption.activeBorder color
+
+## [1.2.0] - 2019-02-09
+### Added
+- Add colors for diff tokens by @aleksijuvani
+- Add 'invalid' token (e.g, too long commit messages) by @aleksijuvani
+
 ## [1.1.3] - 2018-05-15
 ### Added
 - Clojure language support
