@@ -11,3 +11,5 @@ Use [GitHub issues](https://github.com/thenikso/github-plus-theme) to report pro
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   is the suggested icon theme
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+  can be seen in the screenshot for trailing whitespaces highlight
