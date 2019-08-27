@@ -3,6 +3,7 @@
   // Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
   "colors": {
     "focusBorder": "#fafbfc",
+    "inputOption.activeBorder": "#e36209",
     "editor.background": "#ffffff",
     "editor.foreground": "#24292e",
     "editor.lineHighlightBackground": "#fffbdd",
