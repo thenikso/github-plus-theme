@@ -37,7 +37,9 @@
     "tab.inactiveBackground": "#fafbfc",
     "tab.border": "#e1e4e8",
     "tab.inactiveForeground": "#586069",
-    "scrollbar.shadow": "#00000000"
+    "scrollbar.shadow": "#00000000",
+    "quickInputList.focusBackground": "#e7e6e5",
+    "quickInputList.focusForeground": "#6b6b6b"
   },
   // User command "Inspect TM Scopes" to know which scope to color
   "tokenColors": [
