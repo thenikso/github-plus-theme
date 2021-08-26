@@ -40,6 +40,8 @@
     "scrollbar.shadow": "#00000000",
     "quickInputList.focusBackground": "#e7e6e5",
     "quickInputList.focusForeground": "#24292e",
+    "list.highlightForeground": "#0066BF",
+    "list.focusHighlightForeground": "#0066BF",
 
     "terminal.background": "#ffffff",
     "terminal.foreground": "#333333",
