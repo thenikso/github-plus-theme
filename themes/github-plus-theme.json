@@ -242,6 +242,20 @@
       "settings": {
         "foreground": "#6a737d"
       }
+    },
+    {
+      // NON Github
+      "scope": [
+        "constant.numeric.css",
+        "support.constant.property-value.css",
+        "support.function.misc.css",
+        "constant.other.color.rgb-value.hex.css",
+        "punctuation.section.function.begin.bracket.round.css",
+        "punctuation.section.function.end.bracket.round.css"
+      ],
+      "settings": {
+        "foreground": "#353535"
+      }
     }
   ]
 }
