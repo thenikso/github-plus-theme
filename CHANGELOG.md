@@ -1,6 +1,10 @@
 # Change Log
 All notable [changes](http://keepachangelog.com) to the "GitHub Plus Theme" extension will be documented in this file.
 
+## [1.4.0] - 2021-08-26
+### Added
+- Add integrated terminal colors
+
 ## [1.2.1] - 2019-08-27
 ### Added
 - Add inputOption.activeBorder color

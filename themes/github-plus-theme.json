@@ -1,6 +1,6 @@
 {
   "type": "light",
-  // Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
+  // Reference https://code.visualstudio.com/api/references/theme-color
   "colors": {
     "focusBorder": "#fafbfc",
     "inputOption.activeBorder": "#e36209",
@@ -39,9 +39,29 @@
     "tab.inactiveForeground": "#586069",
     "scrollbar.shadow": "#00000000",
     "quickInputList.focusBackground": "#e7e6e5",
-    "quickInputList.focusForeground": "#24292e"
+    "quickInputList.focusForeground": "#24292e",
+
+    "terminal.background": "#ffffff",
+    "terminal.foreground": "#333333",
+    "terminal.ansiBlack": "#414141",
+    "terminal.ansiRed": "#D73A49",
+    "terminal.ansiGreen": "#8EC454",
+    "terminal.ansiYellow": "#F7C400",
+    "terminal.ansiBlue": "#005CC5",
+    "terminal.ansiMagenta": "#FF73FD",
+    "terminal.ansiCyan": "#0BC7D7",
+    "terminal.ansiWhite": "#BFBFBF",
+    "terminal.ansiBrightBlack": "#989898",
+    "terminal.ansiBrightRed": "#FF2224",
+    "terminal.ansiBrightGreen": "#35D61C",
+    "terminal.ansiBrightYellow": "#F7E900",
+    "terminal.ansiBrightBlue": "#001EED",
+    "terminal.ansiBrightMagenta": "#FF00FF",
+    "terminal.ansiBrightCyan": "#69F3F7",
+    "terminal.ansiBrightWhite": "#E0E0E0",
+    "terminalCursor.foreground": "#363636"
   },
-  // User command "Inspect TM Scopes" to know which scope to color
+  // User command "Inspect Editor Tokens and Scopes" to know which scope to color
   "tokenColors": [
     {
       "settings": {
