@@ -57,7 +57,7 @@
     "terminal.ansiBrightRed": "#FA6F71",
     "terminal.ansiBrightGreen": "#35D61C",
     "terminal.ansiBrightYellow": "#FFCA39",
-    "terminal.ansiBrightBlue": "#0047EC",
+    "terminal.ansiBrightBlue": "#1C23D6",
     "terminal.ansiBrightMagenta": "#FF00FF",
     "terminal.ansiBrightCyan": "#3CD7E7",
     "terminal.ansiBrightWhite": "#E0E0E0",
@@ -153,7 +153,8 @@
         "support.function.node",
         "support.type.property-name.json",
         "punctuation.separator.key-value",
-        "punctuation.definition.template-expression"
+        "punctuation.definition.template-expression",
+        "support.constant.property-value.css"
       ],
       "settings": {
         "foreground": "#d73a49"
@@ -249,7 +250,6 @@
       // NON Github
       "scope": [
         "constant.numeric.css",
-        "support.constant.property-value.css",
         "support.function.misc.css",
         "constant.other.color.rgb-value.hex.css",
         "punctuation.section.function.begin.bracket.round.css",
