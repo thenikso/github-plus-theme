@@ -1,6 +1,10 @@
 # Change Log
 All notable [changes](http://keepachangelog.com) to the "GitHub Plus Theme" extension will be documented in this file.
 
+## [1.4.3] - 2022-05-26
+### Added
+- Add color for list.focusBackground as noted by @JackVeromeev
+
 ## [1.4.0] - 2021-08-26
 ### Added
 - Add integrated terminal colors
