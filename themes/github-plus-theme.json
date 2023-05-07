@@ -77,6 +77,7 @@
         "keyword.operator.accessor",
         "meta.group.braces.round.function.arguments",
         "meta.template.expression",
+        "meta.interpolation",
         "markup.fenced_code meta.embedded.block"
       ],
       "settings": {
@@ -155,6 +156,7 @@
         "support.type.property-name.json",
         "punctuation.separator.key-value",
         "punctuation.definition.template-expression",
+        "punctuation.definition.interpolation",
         "support.constant.property-value.css"
       ],
       "settings": {
