@@ -32,6 +32,8 @@
     "notification.background": "#54a3ff",
     "editorGroupHeader.tabsBackground": "#fafbfc",
     "editorGroupHeader.tabsBorder": "#e1e4e8",
+    "editorStickyScroll.shadow": "#c0c0c0",
+    "sideBarStickyScroll.shadow": "#c0c0c0",
     "tab.activeBackground": "#ffffff",
     "tab.activeBorder": "#e36209",
     "tab.inactiveBackground": "#fafbfc",
